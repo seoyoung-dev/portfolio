@@ -33,7 +33,6 @@ const Home = () => {
 
                 <SkillSets />
                 <Projects />
-                <Timestamp />
                 <Experience />
                 <Education />
                 <Footer />
