@@ -12,7 +12,6 @@ import Projects from "../../Projects";
 import SkillSets from "../../SkillSets";
 import { ThemeChangeContext } from "../../../context/themeChangeContext";
 import ThemeMode from "../../ThemeMode";
-import Timestamp from "../../Timestamp";
 import Title from "../../common/Title";
 
 const Home = () => {
@@ -30,9 +29,9 @@ const Home = () => {
                 <ThemeMode />
                 <Title />
                 <AboutMe />
+                <Projects />
 
                 <SkillSets />
-                <Projects />
                 <Experience />
                 <Education />
                 <Footer />

@@ -9,111 +9,59 @@
         "profileImg": "../assets/images/me.gif",
         "email": "seoyoung.dev@gmail.com",
         "githubUrl": "https://github.com/seoyoung-dev",
-        "blogUrl": "https://velog.io/@jojo"
+        "blogUrl": "https://betterme.tistory.com/"
     },
 
     "skillSets": [
         {
             "category": "Front End Skills",
             "skills": [
-                { "skill": "Javascript", "level": "5" },
-                { "skill": "HTML/CSS(SASS)", "level": "5" },
-                { "skill": "React", "level": "5" },
-                { "skill": "Typescript", "level": "4" }
-            ]
-        },
-        {
-            "category": "Back End Skills",
-            "skills": [
-                { "skill": "Python", "level": "3" },
-                { "skill": "Django", "level": "2" },
-                { "skill": "Django-Rest-Framework", "level": "1" },
-                { "skill": "Java", "level": "5" },
-                { "skill": "Spring", "level": "5" },
-                { "skill": "Ruby", "level": "4" },
-                { "skill": "Ruby-on-Rails", "level": "5" }
+                { "skill": "Javascript" },
+                { "skill": "HTML/CSS(SASS)" },
+                { "skill": "React" },
+                { "skill": "Typescript" }
             ]
         },
         {
             "category": "Collaboration Skills",
             "skills": [
                 { "skill": "Git/Github" },
+                { "skill": "Figmas" },
                 { "skill": "Notion" },
-                { "skill": "Slack" },
-                { "skill": "Swit" }
-            ]
-        },
-        {
-            "category": "Etc...",
-            "skills": [
-                { "skill": "Netlify" },
-                { "skill": "Heroku" },
-                { "skill": "Pythonanywhere" },
-                { "skill": "AWS EC2" },
-                { "skill": "AWS Beanstalk" },
-                { "skill": "Docker" }
+                { "skill": "Slack" }
             ]
         }
     ],
 
     "projects": [
         {
-            "imgUrl": "",
+            "imgUrl": "/assets/images/greenery.png",
             "githubUrl": "https://github.com/ddongule",
-            "projectUrl": "",
-            "title": "[Team] Project Title",
-            "term": "21.02.02 v1.3.0",
+            "projectUrl": "http://elice-kdt-sw-1st-team8.elicecoding.com/",
+            "title": "[Team] 초록친구",
+            "term": "21.02.02",
             "description": "About the project ... Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia ..",
             "attribution": "How you made it.. Technology that you used.. Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia ..",
-            "tags": ["React", "Javascript", "Java", "Spring"]
+            "tags": ["React", "Javascript", "CSS", "HTML"]
         },
         {
-            "imgUrl": "/assets/images/example-image-light.png",
-            "githubUrl": "https://github.com/ddongule",
-            "projectUrl": "",
-            "title": "[Personal] Project Title",
-            "term": "21.01.01 v1.0.0",
-            "description": "About the project ... Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia ..",
+            "imgUrl": "/assets/images/PRESIDENT_101.png",
+            "githubUrl": "https://github.com/seoyoung-dev/PRESIDENT101",
+            "projectUrl": "https://github.com/seoyoung-dev/PRESIDENT101",
+            "title": "[Team] PRESIDENT 101",
+            "term": "21.01.01",
+            "description": "2022 대통령 선거정보 제공 서비스",
             "attribution": "How you made it.. Technology that you used.. Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia ..",
-            "tags": ["React", "Javascript", "Java", "Spring"]
-        }
-    ],
-
-    "timestamp": [
-        {
-            "title": "엘리스 SW Engnieer 트랙",
-            "when": "21.10 ~ 22.02",
-            "organizer": "Elice",
-            "tags": ["techcourse"]
-        },
-
-        {
-            "title": "2021 Woowa Tech Course 3th",
-            "when": "21.02.01 - 21.11.31",
-            "organizer": "Woowa Bros",
-            "tags": ["techcourse"]
-        },
-        {
-            "title": "우아한 대학교 (Woowa University)",
-            "when": "20.08.25",
-            "organizer": "University of Woowa",
-            "tags": ["graduation"]
+            "tags": ["Javascript", "CSS", "HTML"]
         }
     ],
 
     "experiences": [
         {
-            "imgUrl": "/assets/images/example-image-dark.png",
-            "title": "[Software Engineer] Woowa Corp.",
-            "term": "21.02 - 현재 진행 중",
+            "imgUrl": "/assets/images/elice.png",
+            "title": "엘리스 SW 엔지니어 트랙.",
+            "term": "21.11 - 22.02",
             "description": "The Experiences that I have in Woowa Corp. Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia ..",
-            "experienceUrl": "https://woowacourse.github.io/"
-        },
-        {
-            "imgUrl": "/assets/images/example-image-light.png",
-            "title": "[Intern] Woowa Corp.",
-            "term": "19.11 - 21.03",
-            "description": "The Experiences that I have in Woowa Corp. Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia .. ",
             "experienceUrl": "https://woowacourse.github.io/"
         }
     ],
@@ -126,7 +74,7 @@
         },
         {
             "title": "강원대학교 사범대학 부설고등학교",
-            "term": "2010.03 - 2013.02",
+            "term": "2013.03 - 2016.02",
             "description": "인문계 졸업"
         }
     ]
