@@ -3,11 +3,9 @@ import "./index.scss";
 import React from "react";
 import SubTitle from "../common/SubTitle";
 import myData from "../../db.json";
-import { useTranslation } from "react-i18next";
 
 const SkillSets = () => {
     const { skillSets } = myData;
-    const { t } = useTranslation();
 
     return (
         <>

@@ -1,15 +1,16 @@
 {
     "meta": {
-        "title": "DP for your portfolio",
+        "title": "seoyoung-dev portfolio",
         "defaultLanguage": "Korean"
     },
     "aboutMe": {
-        "name": "Jo Seo Young",
-        "nickName": "nickName!",
-        "profileImg": "../assets/images/me.gif",
+        "name": "JO SEO YOUNG",
+        "nickName": "seoyoung-dev",
+        "profileImg": "../assets/images/me4.gif",
         "email": "seoyoung.dev@gmail.com",
         "githubUrl": "https://github.com/seoyoung-dev",
-        "blogUrl": "https://betterme.tistory.com/"
+        "blogUrl": "https://betterme.tistory.com/",
+        "linkedInUrl": "010-2275-9878"
     },
 
     "skillSets": [
@@ -36,22 +37,22 @@
     "projects": [
         {
             "imgUrl": "/assets/images/greenery.png",
-            "githubUrl": "https://github.com/ddongule",
+            "githubUrl": "https://github.com/seoyoung-dev/greenery-friend",
             "projectUrl": "http://elice-kdt-sw-1st-team8.elicecoding.com/",
             "title": "[Team] 초록친구",
-            "term": "21.02.02",
-            "description": "About the project ... Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia ..",
-            "attribution": "How you made it.. Technology that you used.. Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia ..",
-            "tags": ["React", "Javascript", "CSS", "HTML"]
+            "term": "22.02.10",
+            "description": "반려식물을 죽이지 않고 '잘' 기르고 싶은 사람들을 위한 커뮤니티",
+            "attribution": "내가 키우는 식물을 자랑하고 사람들과 정보를 공유하는 소통의 장을 제공합니다. 반려식물이 없는 사용자에게는 조도, 물주는 빈도, 꽃피는 계절 등의 조건을 고려하여 키우기 적합한 식물을 추천합니다.",
+            "tags": ["React", "Javascript", "CSS", "HTML", "Node.js", "MongoDB"]
         },
         {
             "imgUrl": "/assets/images/PRESIDENT_101.png",
-            "githubUrl": "https://github.com/seoyoung-dev/PRESIDENT101",
-            "projectUrl": "https://github.com/seoyoung-dev/PRESIDENT101",
+            "githubUrl": "https://github.com/seoyoung-dev/president-101",
+            "projectUrl": "https://github.com/seoyoung-dev/president-101",
             "title": "[Team] PRESIDENT 101",
             "term": "21.01.01",
             "description": "2022 대통령 선거정보 제공 서비스",
-            "attribution": "How you made it.. Technology that you used.. Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia ..",
+            "attribution": "대선 후보들의 재산, 전과, 학력 등의 상세 정보를 한 번에 파악할 수 있습니다. 부동산, 신재생 에너지 등 중점 이슈에 대한 후보들의 공약을 비교하고 후보자의 공약에 찬성 또는 반대를 투표할 수 있습니다.",
             "tags": ["Javascript", "CSS", "HTML"]
         }
     ],
@@ -59,10 +60,10 @@
     "experiences": [
         {
             "imgUrl": "/assets/images/elice.png",
-            "title": "엘리스 SW 엔지니어 트랙.",
+            "title": "엘리스 SW 엔지니어 트랙",
             "term": "21.11 - 22.02",
-            "description": "The Experiences that I have in Woowa Corp. Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia ..",
-            "experienceUrl": "https://woowacourse.github.io/"
+            "description": "엘리스 SW 엔지니어 트랙은 프론트엔드 개발자 양성을 위한 코스로, 주요 커리큘럼은 JavaScript, React, Node.js 학습을 목표로 16주 동안 진행됩니다.",
+            "experienceUrl": "https://academy.elice.io/explore"
         }
     ],
 
