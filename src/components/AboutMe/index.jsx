@@ -116,7 +116,7 @@ const AboutMe = () => {
                             {linkedInUrl && (
                                 <div className="detail flex">
                                     <span className="category">phone</span>
-                                    <a href={linkedInUrl}>{linkedInUrl}</a>
+                                    <a href={"#"}>{linkedInUrl}</a>
                                 </div>
                             )}
                         </div>

@@ -50,7 +50,7 @@
             "githubUrl": "https://github.com/seoyoung-dev/president-101",
             "projectUrl": "https://github.com/seoyoung-dev/president-101",
             "title": "[Team] PRESIDENT 101",
-            "term": "21.01.01",
+            "term": "21.12.25",
             "description": "2022 대통령 선거정보 제공 서비스",
             "attribution": "대선 후보들의 재산, 전과, 학력 등의 상세 정보를 한 번에 파악할 수 있습니다. 부동산, 신재생 에너지 등 중점 이슈에 대한 후보들의 공약을 비교하고 후보자의 공약에 찬성 또는 반대를 투표할 수 있습니다.",
             "tags": ["Javascript", "CSS", "HTML"]
